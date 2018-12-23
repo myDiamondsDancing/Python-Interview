@@ -9,7 +9,7 @@ print(id(a))   #1584027968
 a += 1
 print(id(a))   #1584927984
 
-#As you see, id changed
+#As you see, id has changed
 
 a = True
 print(id(a))   #1583846512
@@ -17,7 +17,7 @@ print(id(a))   #1583846512
 a = False
 print(id(a))   #1583846528
 
-#Id changed too
+#Id has changed too
 
 
 a = [1, 2, 3]    #list
@@ -60,7 +60,7 @@ t[3].append(6)
 print(t)    # (1, 2, 3, [4, 5, 6])
 
 # Something about type
-# type(object) return type of object :)
+# type(object) returns type of object :)
 
 a = 3
 b = .6
