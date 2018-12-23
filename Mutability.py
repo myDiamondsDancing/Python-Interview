@@ -51,7 +51,7 @@ b = 10
 updateNumber(10)
 print(b)   # 10
 
-# Varning!
+# Warning!
 # Not all immutable objects actually immutable
 # Some example with tuple
 
